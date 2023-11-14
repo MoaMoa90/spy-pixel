@@ -16,6 +16,8 @@ The following services need to be installed on cloud host, use your favorite pac
 - python-pip
 - python 3.8+
 
+sudo apt-get install libapache2-mod-wsgi-py3
+
 This project assumes you are able to set up a basic Amazon EC2 instance. 
 
 ### Step 1
